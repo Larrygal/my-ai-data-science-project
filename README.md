@@ -1,8 +1,7 @@
 Automated Waste Classification Using Deep learning and Traditional Machine Learning.
 
 ## Overview
-This project explores the application of advanced Deep Learning and Traditional Machine Learning techniques to categorize waste into organic and recyclable categories, promoting the Circular Economy and sustainable waste management. 
-Project .CNN (Custom Architecture), Transfer learning models like DenseNet121, ResNet50, VGG16, and traditional machine learning models like Random Forest and SVM were compared and evaluated. The impact of dimensionality reduction using Principal Component Analysis (PCA) and hyperparameter tuning on model performance was also evaluated.  
+This project explores the application of advanced Deep Learning and Traditional Machine Learning techniques to categorize waste into organic and recyclable categories, promoting the Circular Economy and sustainable waste management. CNN (Custom Architecture), Transfer learning models like DenseNet121, ResNet50, VGG16, and traditional machine learning models like Random Forest and SVM were compared and evaluated. The impact of dimensionality reduction using Principal Component Analysis (PCA) and hyperparameter tuning on model performance was also evaluated.  
 DenseNet121 achieved the highest performance with 91% accuracy, demonstrating strong suitability for real-world automated waste classification systems.
 ## Objectives
 - Develop AI models for waste classification
