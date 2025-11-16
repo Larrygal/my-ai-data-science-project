@@ -23,12 +23,6 @@ Principal Component Analysis (PCA)
 Grid Search Hyperparameter Tuning
 Data Augmentation & Normalisation
 ## Result Summary
-Deep Learning Models
-<img width="953" height="545" alt="image" src="https://github.com/user-attachments/assets/c1d450c9-16bc-4611-9223-9d98c45016dd" />
-Traditional Machine Learning Models
-<img width="896" height="1085" alt="image" src="https://github.com/user-attachments/assets/52f3b828-62bf-4909-9163-42f26c5347ea" />
-Hyperparameter Tunning  for Traditional Machine Learning models
-<img width="725" height="818" alt="image" src="https://github.com/user-attachments/assets/d8669fea-2cbf-4ec0-8fa1-433a4494f1ae" />
 DenseNet121 achieved overall accuracy of 91%.
 ## Key Findings
 Deep learning significantly outperformed traditional machine learning.
